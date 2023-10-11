@@ -14,7 +14,8 @@ This is a repository to Building A REST API With Node, Express, TypeScript & Mon
 
 ## Technologies
 - Node js
-- MongoDb
+- MongoDB
+- Express
   
 ## 🔐 Setup .env file
 MONGO_URL
