@@ -20,6 +20,11 @@ This is a repository to Building A REST API With Node, Express, TypeScript & Mon
 ## 🔐 Setup .env file
 MONGO_URL
 
+# Screenshot
+![alt text](1.png)
+![alt text](2.png)
+![alt text](3.png)
+
 ## :running: Run Locally
 
 Clone the project
